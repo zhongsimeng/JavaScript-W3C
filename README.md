@@ -87,6 +87,7 @@ The Light bulb
 JavaScript常用于验证用户的输入。
 
 实例：
+
     if isNaN(x){alert("Not Numeric")};
     
     
